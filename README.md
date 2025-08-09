@@ -12,10 +12,10 @@ The dashboard provides insights into sales trends, profit analysis, customer seg
 3.Fixed data type errors (especially in date columns) and standardized formats.
 4.Removed error rows from the dataset.
 
-##Data Modeling
+## Data Modeling
 1. Created calculated columns and measures using DAX (e.g., Total Sales, Profit, Quantity).
 
-##Dashboard Creation:
+## Dashboard Creation:
 1.Built interactive visualizations including:
 2.Sales by Category & Subcategory
 3.Sales by Region & Segment
@@ -24,11 +24,11 @@ The dashboard provides insights into sales trends, profit analysis, customer seg
 6.Added slicers for region selection.
 7.Applied custom formatting, colors, and background for better visual appeal.
 
-##Insights Generation
+## Insights Generation
 -Identified top-performing regions, categories, and subcategories.
 -Highlighted areas of improvement for low-performing segments and regions.
 
-##Recommendations:
+## Recommendations:
 
 -Boost marketing in South and Central regions.
 -Focus on Phones, Chairs, and Machines for promotions.
