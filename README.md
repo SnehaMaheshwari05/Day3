@@ -1,6 +1,6 @@
 # Day3
 
-##Super Store Sales Dashboard – Power BI Project
+## Super Store Sales Dashboard – Power BI Project
 #📌 Project Overview
 This project analyzes sales performance for a Super Store dataset using Power BI.
 The dashboard provides insights into sales trends, profit analysis, customer segments, regions, product categories, and shipping modes, enabling data-driven decision-making to improve business performance.
@@ -16,11 +16,11 @@ The dashboard provides insights into sales trends, profit analysis, customer seg
 1. Created calculated columns and measures using DAX (e.g., Total Sales, Profit, Quantity).
 
 ## Dashboard Creation:
-1.Built interactive visualizations including:
-2.Sales by Category & Subcategory
-3.Sales by Region & Segment
-4.Sales & Profit by Month
-5.Sales by Ship Mode
+1.Built interactive visualizations including.
+2.Sales by Category & Subcategory.
+3.Sales by Region & Segment.
+4.Sales & Profit by Month.
+5.Sales by Ship Mode.
 6.Added slicers for region selection.
 7.Applied custom formatting, colors, and background for better visual appeal.
 
