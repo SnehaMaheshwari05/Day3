@@ -25,13 +25,13 @@ The dashboard provides insights into sales trends, profit analysis, customer seg
 7.Applied custom formatting, colors, and background for better visual appeal.
 
 ## Insights Generation
--Identified top-performing regions, categories, and subcategories.
--Highlighted areas of improvement for low-performing segments and regions.
+- Identified top-performing regions, categories, and subcategories.
+- Highlighted areas of improvement for low-performing segments and regions.
 
 ## Recommendations:
 
--Boost marketing in South and Central regions.
--Focus on Phones, Chairs, and Machines for promotions.
--Improve Furniture category sales through offers.
--Increase online payment adoption with discounts.
--Optimize shipping speed for Same-Day and Second-Class deliveries.
+- Boost marketing in South and Central regions.
+- Focus on Phones, Chairs, and Machines for promotions.
+- Improve Furniture category sales through offers.
+- Increase online payment adoption with discounts.
+- Optimize shipping speed for Same-Day and Second-Class deliveries.
